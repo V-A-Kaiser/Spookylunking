@@ -1,6 +1,0 @@
-id,title,slug,description,category,content,author,date
-1,Getting Started with SvelteKit,/getting-started,Learn the basics of SvelteKit framework,tutorial,This is a comprehensive guide to getting started with SvelteKit...,John Doe,2024-01-15
-2,Advanced Routing Patterns,/advanced-routing,Explore dynamic routing in SvelteKit,guide,Learn about dynamic routes and how to implement them...,Jane Smith,2024-01-20
-3,State Management Best Practices,/state-management,Best practices for managing state in SvelteKit,tutorial,Discover the best ways to handle state in your SvelteKit applications...,Mike Johnson,2024-01-25
-4,Deployment Strategies,/deployment,How to deploy your SvelteKit applications,guide,Complete guide to deploying SvelteKit apps to various platforms...,Sarah Wilson,2024-02-01
-5,Performance Optimization,/performance,Optimize your SvelteKit applications for better performance,tutorial,Tips and tricks for making your SvelteKit apps lightning fast...,Alex Brown,2024-02-05

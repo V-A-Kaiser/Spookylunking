@@ -1,0 +1,57 @@
+[
+  {
+    "title": "A Thing That Goes Bump In The Night",
+    "description": "A description of the first game played.",
+    "video": "https://youtu.be/DVxpfcJaSH0",
+    "visuals": 3,
+    "audio": 2,
+    "story": 4,
+    "atmosphere": 2,
+    "scariness": 3,
+    "gameplay": 2
+  },
+  {
+    "title": "Frightful Folly",
+    "description": "A description of the second game played.",
+    "video": "https://youtu.be/SYEhrlqZ6Xc",
+    "visuals": 5,
+    "audio": 5,
+    "story": 5,
+    "atmosphere": 5,
+    "scariness": 5,
+    "gameplay": 5
+  },
+  {
+    "title": "A Tale Of Two Castles",
+    "description": "A description of the third game played.",
+    "video": "https://youtu.be/gQgPlwY9fFE",
+    "visuals": 3,
+    "audio": 1,
+    "story": 1,
+    "atmosphere": 2,
+    "scariness": 3,
+    "gameplay": 2
+  },
+  {
+    "title": "Spooky Tales",
+    "description": "A description of the fourth game played.",
+    "video": "https://youtu.be/7TO6GbaDFVI",
+    "visuals": 3,
+    "audio": 1,
+    "story": 1,
+    "atmosphere": 2,
+    "scariness": 3,
+    "gameplay": 2
+  },
+  {
+    "title": "The Ghost Train",
+    "description": "A description of the fifth game played.",
+    "video": "https://youtu.be/vw153rXg_qc",
+    "visuals": 3,
+    "audio": 1,
+    "story": 1,
+    "atmosphere": 2,
+    "scariness": 3,
+    "gameplay": 2
+  }
+]
